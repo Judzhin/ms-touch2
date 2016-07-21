@@ -7,3 +7,5 @@ build/
 
 # sass cache folder
 resources/sass/.sass-cache/
+
+touch/
