@@ -9,3 +9,5 @@ build/
 resources/sass/.sass-cache/
 
 touch/
+
+cordova/
